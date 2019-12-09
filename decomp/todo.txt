@@ -1,0 +1,3 @@
+0. Load our data?
+1. Work out what MVP is to get decomp done, plot, etc? Might be easier just to run it all from Jupyter
+2. Make all data directories point to ~/.dropbox-work/OED/[etc]
